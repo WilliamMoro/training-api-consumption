@@ -1,0 +1,39 @@
+{
+  "musics": [
+    {
+      "id": "2",
+      "author": "AC/DC",
+      "name": "Highway to Hell"
+    },
+    {
+      "id": "3",
+      "author": "Led Zeppelin",
+      "name": "Whole Lotta Love"
+    },
+    {
+      "id": "5",
+      "author": "Van Halen",
+      "name": "Jump"
+    },
+    {
+      "id": "6",
+      "author": "Deep Purple",
+      "name": "Smoke on the Water"
+    },
+    {
+      "id": "9968",
+      "author": "Jhon Lennon ",
+      "name": "Legends"
+    },
+    {
+      "id": "b8c2",
+      "author": "Guns N Rose",
+      "name": "November Rain"
+    },
+    {
+      "id": "5231",
+      "author": "AC/DC",
+      "name": "Thunderloks"
+    }
+  ]
+}
